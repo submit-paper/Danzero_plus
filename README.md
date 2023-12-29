@@ -6,9 +6,9 @@ lib needs(If you just train the DMC model, torch is not required):
 
 linux20.04
 
-python=3.8
+python=3.8(learner) python=3.6(actor)
 
-tensorflow=1.15.5
+tensorflow=1.15.5+nv22.2(learner) or 1.15.4(actor)
 
 numpy=1.18.5
 
