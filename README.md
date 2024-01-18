@@ -26,6 +26,10 @@ Then you can enter the learner and use "ssh-keygen -t rsa" to create the pub fil
 the actors. After that, edit the /etc/ssh/ssh_config file to set "StrictHostKeyChecking" to be no.
 In this way, the dockers can communicate directly.
 
+For convenience of installation, we offer the actor image at 
+Link：https://pan.baidu.com/s/1ICAKWF3F-LxraphzqNjYhg?pwd=0704 
+Extracted code：0704 
+
 ## Run
 The direct command to run the code is as below:
 
